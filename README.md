@@ -10,5 +10,3 @@ Skills: Java and Python
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Attilene&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Attilene)  
-
-![Profile views](https://gpvc.arturio.dev/Attilene)  
