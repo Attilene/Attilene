@@ -1,7 +1,7 @@
 ### Hi there 👋, I`m Artem
 #### I love doing projects
 
-Skills: Java and Python
+Skills: Java, Python, VBA, R language, PostgreSQL
 
 
 
