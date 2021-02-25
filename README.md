@@ -1,3 +1,5 @@
+![LOGO](Attilene_Dark.png)
+
 ## Hi there 👋, I`m Artem aka Attilene
 ##### I`m developer from Russia
 ##### I love doing projects on Java and Python
