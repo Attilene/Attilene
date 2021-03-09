@@ -21,5 +21,5 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Attilene)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Attilene&layout=compact&exclude=javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Attilene&layout=compact&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
   
