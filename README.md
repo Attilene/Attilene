@@ -1,4 +1,4 @@
-![LOGO](Attilene_Dark.png)
+![LOGO](LOGO\Attilene_Dark.png)
 
 ## Hi there 👋, I`m Artem aka Attilene
 ##### I`m developer from Russia
